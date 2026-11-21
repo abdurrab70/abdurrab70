@@ -25,16 +25,10 @@
 
 <br/>
 <br/>
-<table>
-<tr>
-<td align="center" valign="middle">
-<h3>💜 &lt;/&gt;</h3>
-</td>
-<td align="center" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=true&vCenter=true&width=340&height=35&lines=Always+Learning+%F0%9F%92%9C;Always+Building+%F0%9F%9A%80;Always+Improving+%E2%9C%A8;Always+Developing+%F0%9F%91%A8%F0%9F%92%BB" />
-</td>
-</tr>
-</table>
+<p>
+  <strong><code>&lt;/&gt;</code></strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=false&vCenter=true&width=350&height=30&lines=Always+Learning+%F0%9F%92%9C;Always+Building+%F0%9F%9A%80;Always+Improving+%E2%9C%A8;Always+Developing+%F0%9F%91%A8%F0%9F%92%BB" />
+</p>
 
 </td>
 </tr>
