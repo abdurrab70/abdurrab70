@@ -21,7 +21,7 @@
 <a href="https://github.com/abdurrab70"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="YOUR_DISCORD_URL"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:cse.abdur.rab@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -154,15 +154,9 @@ A task management application.
 ## <img src="https://img.shields.io/badge/05-LET'S_CONNECT-9333EA?style=for-the-badge"/>
 
 <div align="center">
-
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_DISCORD_URL"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
 <br/><br/>
 
-**💜 Always Learning | Building | Improving**
+**<> Always Learning | Building | Improving </> **
 
 ⭐ Thanks for visiting my GitHub profile!
 
