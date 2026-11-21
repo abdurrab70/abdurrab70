@@ -25,14 +25,7 @@
 
 <br/>
 <br/>
-<div align="center">
-
-<p>
-  <strong style="color:#DB2777; font-size:22px;">&lt;/&gt;</strong>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=false&vCenter=true&width=340&height=30&lines=Always+Learning+%F0%9F%92%9C;Always+Building+%F0%9F%9A%80;Always+Improving+%E2%9C%A8;Always+Developing+%F0%9F%92%BB" align="middle" />
-</p>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Always+Learning+%F0%9F%92%9C;Always+Building+%F0%9F%9A%80;Always+Improving+%E2%9C%A8;Always+Developing+%E2%9C%A8" />
 
 </td>
 </tr>
