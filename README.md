@@ -156,7 +156,7 @@ A task management application.
 <div align="center">
 <br/><br/>
 
-**<> Always Learning | Building | Improving </> **
+** <> Always Learning | Building | Improving </> **
 
 ⭐ Thanks for visiting my GitHub profile!
 
