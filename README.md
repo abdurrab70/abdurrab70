@@ -25,7 +25,10 @@
 
 <br/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Always+Learning+%F0%9F%92%9C;Always+Building+%F0%9F%9A%80;Always+Improving+%E2%9C%A8;Always+Developing+%E2%9C%A8" />
+<h3>
+  <code style="color:#DB2777;">&lt;/&gt;</code>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=false&vCenter=true&width=380&height=30&lines=Always+Learning+%F0%9F%92%9C;Always+Building+%F0%9F%9A%80;Always+Improving+%E2%9C%A8;Always+Developing+%F0%9F%91%A8%u200D%F0%9F%92%BB" />
+</h3>
 
 </td>
 </tr>
