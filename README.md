@@ -136,28 +136,6 @@ I'm a MERN-Stack Developer focused on building modern web applications using Rea
 - Python & FastAPI
 - Rest APIs
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="YOUR_DISCORD_URL">
-<img src="https://img.shields.io/badge/Discord-Connect_With_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL_ADDRESS">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
 ---
 
 <div align="center">
