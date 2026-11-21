@@ -25,10 +25,14 @@
 
 <br/>
 <br/>
+<div align="center">
+
 <p>
-  <strong><code>&lt;/&gt;</code></strong>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=false&vCenter=true&width=350&height=30&lines=Always+Learning+%F0%9F%92%9C;Always+Building+%F0%9F%9A%80;Always+Improving+%E2%9C%A8;Always+Developing+%F0%9F%91%A8%F0%9F%92%BB" />
+  <strong style="color:#DB2777; font-size:22px;">&lt;/&gt;</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=false&vCenter=true&width=340&height=30&lines=Always+Learning+%F0%9F%92%9C;Always+Building+%F0%9F%9A%80;Always+Improving+%E2%9C%A8;Always+Developing+%F0%9F%92%BB" align="middle" />
 </p>
+
+</div>
 
 </td>
 </tr>
