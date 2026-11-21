@@ -115,7 +115,7 @@ I'm a MERN-Stack Developer focused on building modern web applications using Rea
 
 <div align="center">
 
-**"Always learning || building || improving."**
+**"Always learning | building | improving."**
 
 ⭐ Thanks for visiting my GitHub profile!
 
