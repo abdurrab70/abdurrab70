@@ -1,32 +1,54 @@
+
 <div align="center">
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="650">
 
-<img src="https://github.com/abdurrab70.png" width="110" height="110" style="border-radius: 50%;" alt="Abdur Rab" />
+<br/>
 
-# Md. Abdur Rab
+<img src="https://github.com/abdurrab70.png" width="125" height="125" alt="Md. Abdur Rab" />
 
-### MERN-Stack Developer
+<h1>Md. Abdur Rab</h1>
 
+<h3>
+<span style="color:#06b6d4;">MERN-Stack Developer</span>
+</h3>
+
+<p>
 Building Modern Web Applications with React.js & Node.js
+</p>
+
+<p>
+🎓 Diploma in Computer Science and Engineering (CSE)
+</p>
 
 <br/>
 
 <a href="https://github.com/abdurrab70">
-<img src="https://img.shields.io/badge/GitHub-@abdurrab70-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="YOUR_DISCORD_URL">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL_ADDRESS">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <br/><br/>
-
-🎓 **Diploma in Computer Science and Engineering (CSE)**
 
 </td>
 </tr>
 </table>
 
 </div>
+
 
 ## 🚀 About Me
 
