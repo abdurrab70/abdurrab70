@@ -152,8 +152,6 @@ A task management application.
 
 ---
 
-## <img src="https://img.shields.io/badge/05-LET'S_CONNECT-9333EA?style=for-the-badge"/>
-
 <div align="center">
 <br/><br/>
 
