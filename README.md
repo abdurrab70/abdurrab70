@@ -156,9 +156,11 @@ A task management application.
 <div align="center">
 <br/><br/>
 
-<img src="https://img.shields.io/badge/✨_Always_Learning-9333EA?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🚀_Always_Building-DB2777?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💜_Always_Improving-7C3AED?style=for-the-badge" />
+<h3>
+  <span style="color:#9333EA;">✦ Always Learning</span>
+  <span style="color:#DB2777;"> | Always Building</span>
+  <span style="color:#7C3AED;"> | Always Improving ✦</span>
+</h3>
 
 ⭐ Thanks for visiting my GitHub profile!
 
