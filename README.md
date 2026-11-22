@@ -36,7 +36,7 @@
 
 ## <img src="https://img.shields.io/badge/ABOUT_ME-9333EA?style=for-the-badge"/> 
 
-I'm a MERN-Stack Developer focused on building modern web applications using React.js and Node.js. I enjoy solving problems, exploring new technologies, and continuously improving my development skills.
+I'm a MERN-Stack Developer focused on building modern web applications using React.js and Node.js. I enjoy solving problems and continuously improving my development skills.
 
 - 💻 Focused on Full-stack Web Development.
 - 🎓 Diploma in Computer Science and Engineering (CSE).
@@ -46,7 +46,7 @@ I'm a MERN-Stack Developer focused on building modern web applications using Rea
 
 ---
 
-## <img src="https://img.shields.io/badge/FEATURED_PROJECTS-DB2777?style=for-the-badge"/>
+## <img src="https://img.shields.io/badge/FEATURED_PROJECTS-9333EA?style=for-the-badge"/>
 
 <table>
 <tr>
@@ -134,7 +134,7 @@ A task management application.
 
 ---
 
-## <img src="https://img.shields.io/badge/CURRENTLY_EXPLORING-DB2777?style=for-the-badge"/>
+## <img src="https://img.shields.io/badge/CURRENTLY_EXPLORING-9333EA?style=for-the-badge"/>
 
 - Modern JavaScript (ES6+)
 - TypeScript
