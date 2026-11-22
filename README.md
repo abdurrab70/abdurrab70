@@ -17,7 +17,7 @@
 🎓 Diploma in Computer Science and Engineering (CSE)
 
 ---
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Always+Learning+%F0%9F%92%9C;Always+Building+%F0%9F%9A%80;Always+Improving+%E2%9C%A8;Turning+Ideas+into+Web+Applications." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Always+Learning+%F0%9F%92%9C;Always+Building+%F0%9F%9A%80;Always+Improving+%E2%9C%A8;Turning+Ideas+into+Web+Applications.;React.js+&+Node.js+Enthusiast." />
 
 ---
 
