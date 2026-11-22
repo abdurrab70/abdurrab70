@@ -16,6 +16,9 @@
 
 🎓 Diploma in Computer Science and Engineering (CSE)
 
+---
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Always+Learning+%F0%9F%92%9C;Always+Building+%F0%9F%9A%80;Always+Improving+%E2%9C%A8;Always+Developing+%F0%9F%92%9C" />
+
 <br/>
 
 <a href="https://github.com/abdurrab70"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -23,7 +26,6 @@
 <a href="https://discord.com/1513803127663366287"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="mailto:cse.abdur.rab@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Always+Learning+%F0%9F%92%9C;Always+Building+%F0%9F%9A%80;Always+Improving+%E2%9C%A8;Always+Developing+</>" />
 
 </td>
 </tr>
