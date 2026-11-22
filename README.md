@@ -10,7 +10,7 @@
 
 # Md. Abdur Rab
 
-### 💜 MERN-Stack Developer
+### MERN-Stack Developer
 
 **Building Modern Web Applications with React.js & Node.js**
 
@@ -20,7 +20,7 @@
 
 <a href="https://github.com/abdurrab70"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_DISCORD_URL"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discord.com/1513803127663366287"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="mailto:cse.abdur.rab@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/>
@@ -34,7 +34,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/01-ABOUT_ME-9333EA?style=for-the-badge"/> 
+## <img src="https://img.shields.io/badge/ABOUT_ME-9333EA?style=for-the-badge"/> 
 
 I'm a MERN-Stack Developer focused on building modern web applications using React.js and Node.js. I enjoy solving problems, exploring new technologies, and continuously improving my development skills.
 
@@ -46,7 +46,7 @@ I'm a MERN-Stack Developer focused on building modern web applications using Rea
 
 ---
 
-## <img src="https://img.shields.io/badge/02-FEATURED_PROJECTS-DB2777?style=for-the-badge"/>
+## <img src="https://img.shields.io/badge/FEATURED_PROJECTS-DB2777?style=for-the-badge"/>
 
 <table>
 <tr>
@@ -78,7 +78,7 @@ A task management application.
 
 ---
 
-## <img src="https://img.shields.io/badge/03-TECH_STACK-9333EA?style=for-the-badge"/>
+## <img src="https://img.shields.io/badge/TECH_STACK-9333EA?style=for-the-badge"/>
 
 ####  Languages
 
@@ -142,7 +142,7 @@ A task management application.
 
 ---
 
-## <img src="https://img.shields.io/badge/04-CURRENTLY_EXPLORING-DB2777?style=for-the-badge"/>
+## <img src="https://img.shields.io/badge/CURRENTLY_EXPLORING-DB2777?style=for-the-badge"/>
 
 - Modern JavaScript (ES6+)
 - TypeScript
